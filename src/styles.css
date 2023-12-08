@@ -1,0 +1,54 @@
+      body {
+        margin: auto;
+        max-width: 600px;
+        text-align: center;
+        font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+        background-color: #ffebbb;
+      }
+      img{
+         margin: auto;
+        max-width: 600px;
+      }
+
+      div.container {
+        max-width: 800px;
+        margin: auto;
+        height: auto;
+        margin-top: 50px;
+        margin-bottom: 50px;
+        padding: 50px;
+        border-radius: 50px;
+        background-color: #fdffcd;
+      }
+
+      h1 {
+        font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+        font-size: 50px;
+        color: #ffcab0;
+      }
+
+      p {
+        color: #ffcab0;
+      }
+      .p3 {
+        color: #ff8264;
+      }
+      button {
+        color: #ff8264;
+        background: transparent;
+        font-size: 15px;
+        margin: 20px auto;
+        padding: 15px 20px;
+        text-align: center;
+        margin: 30px auto;
+        display: block;
+        border: 1px solid #ff8264;
+        border-radius: 30px;
+        transition: 200ms ease;
+      }
+      button:hover {
+        color: #fff;
+        background-color: #ff8264;
+        cursor: pointer;
+      }
+    
